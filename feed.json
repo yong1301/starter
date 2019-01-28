@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "starter",
+    "description": "",
+    "home_page_url": "https://yong1301.github.io/starter",
+    "feed_url": "https://yong1301.github.io/starter/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yong"
+    },
+    "items": [
+    ]
+}
