@@ -3,10 +3,32 @@
     <title>starter</title>
     <link href="https://yong1301.github.io/starter/feed.xml" rel="self" />
     <link href="https://yong1301.github.io/starter" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2019-01-28T11:40:08+09:00</updated>
     <author>
         <name>yong</name>
     </author>
     <id>https://yong1301.github.io/starter</id>
 
+    <entry>
+        <title>Fan</title>
+        <author>
+            <name>yong</name>
+        </author>
+        <link href="https://yong1301.github.io/starter/fan.html"/>
+        <id>https://yong1301.github.io/starter/fan.html</id>
+
+        <updated>2019-01-28T11:38:01+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://yong1301.github.io/starter/media/posts/1/1.JPG" alt="" />
+                    Fan
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://yong1301.github.io/starter/media/posts/1/1.JPG" alt="" />
+                Fan
+            ]]>
+        </content>
+    </entry>
 </feed>

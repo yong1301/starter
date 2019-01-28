@@ -5,9 +5,25 @@
     "home_page_url": "https://yong1301.github.io/starter",
     "feed_url": "https://yong1301.github.io/starter/feed.json",
     "user_comment": "",
+    "icon": "https://yong1301.github.io/starter/media/website/logo.JPG",
     "author": {
         "name": "yong"
     },
     "items": [
+        {
+            "id": "https://yong1301.github.io/starter/fan.html",
+            "url": "https://yong1301.github.io/starter/fan.html",
+            "title": "Fan",
+            "summary": "Fan",
+            "content_html": "Fan",
+            "image": "https://yong1301.github.io/starter/media/posts/1/1.JPG",
+            "author": {
+                "name": "yong"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-28T11:38:01+09:00",
+            "date_modified": "2019-01-28T11:38:01+09:00"
+        }
     ]
 }
